@@ -3,6 +3,8 @@
 One million English sentences, each split into two sentences that together
 preserve the original meaning, extracted from Wikipedia edits.
 
+## Description
+
 Google's WikiSplit dataset was constructed automatically from the publicly
 available Wikipedia revision history. Although the dataset contains some
 inherent noise, it can serve as valuable training data for models that split or
