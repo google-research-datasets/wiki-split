@@ -1,7 +1,7 @@
 # WikiSplit Dataset
 
-*one million English sentences, each split into two sentences that together
-preserve the original meaning.*
+One million English sentences, each split into two sentences that together
+preserve the original meaning, extracted from Wikipedia edits.
 
 Google's WikiSplit dataset was constructed automatically from the publicly
 available Wikipedia revision history. Although the dataset contains some
