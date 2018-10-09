@@ -2,7 +2,8 @@
 
 One million English sentences, each split into two sentences that together
 preserve the original meaning, extracted from Wikipedia edits.
-[http://goo.gl/language/wiki-split]
+
+http://goo.gl/language/wiki-split
 
 ## Description
 
