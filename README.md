@@ -5,6 +5,9 @@ preserve the original meaning, extracted from Wikipedia edits.
 
 http://goo.gl/language/wiki-split
 
+**Update** (3 June 2019): The source code for the evaluations in our paper has been released into a separate repository:
+https://github.com/google-research/google-research/tree/master/wiki_split_bleu_eval.
+
 ## Description
 
 Google's WikiSplit dataset was constructed automatically from the publicly
@@ -93,6 +96,9 @@ improved generalization and dramatically better output on the
 | &nbsp;&nbsp;&nbsp;&nbsp; WebSplit + WikiSplit ([Botha et al., 2018](https\://arxiv.org/pdf/1808.09468.pdf))* | 62.4
 
 See [paper](https://arxiv.org/pdf/1808.09468.pdf) for details.
+
+For the sake of direct comparisons to this work, the evaluation source code is available at:
+https://github.com/google-research/google-research/tree/master/wiki_split_bleu_eval.
 
 ## License
 
